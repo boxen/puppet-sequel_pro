@@ -1,6 +1,6 @@
 # Sequel Pro Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/todd/puppet-sequel_pro.png)](https://travis-ci.org/todd/puppet-sequel_pro)
+[![Build Status](https://travis-ci.org/boxen/puppet-sequel_pro.png)](https://travis-ci.org/boxen/puppet-sequel_pro)
 
 ## Usage
 
